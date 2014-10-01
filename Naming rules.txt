@@ -1,0 +1,12 @@
+System naming for Sub-systems and Mission Control Room Server:
+MCRS
+LCS
+BIMG
+SNW
+ACMV
+
+Tag naming:
+
+ SYSTEM NAME_V_VERSION
+ 
+ ex: MCRS_V_1.0
